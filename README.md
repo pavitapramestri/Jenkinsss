@@ -1,1 +1,1 @@
-# Jenkinsss jelek :3
+# Jenkinsss :3
